@@ -5,23 +5,14 @@
  📌 Kullandığım Başlıca Kütüphaneler:
 
 * ✅ SQLite
- 
-* ✅ Path
-
+* ✅ path
 * ✅ image_picker
-
 * ✅ shared_preferences
-
 * ✅ geolocator
-
 * ✅ confetti
-
 * ✅ lottie
-
 * ✅ http
-
 * ✅ provider
-
 
 
 ## 📸 Ekran Görüntüleri
