@@ -19,6 +19,7 @@
 Uygulamaya ait ekran görüntüleri:
 
 <div align="center">
+  <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/tanitim.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/konum_izni_1.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/ana_sayfa_1.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/ana_sayfa_2.png" width="300"/>
