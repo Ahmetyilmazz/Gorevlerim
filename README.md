@@ -4,15 +4,15 @@
  
  📌 Kullandığım Başlıca Kütüphaneler:
 
-* ✅ SQLite
 * ✅ path
+* ✅ path_provider
 * ✅ image_picker
 * ✅ shared_preferences
-* ✅ geolocator
-* ✅ confetti
-* ✅ lottie
-* ✅ http
 * ✅ provider
+* ✅ SQfLite
+* ✅ pdf
+* ✅ printing
+* ✅ easy_localization
 
 
 ## 📸 Ekran Görüntüleri
