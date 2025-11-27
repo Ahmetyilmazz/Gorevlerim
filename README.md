@@ -19,16 +19,21 @@
 Uygulamaya ait ekran görüntüleri:
 
 <div align="center">
-  <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/b8fdab078ddd319e9dd0d0fd48804618a5d7a9f0/ekran_resimleri/tanitim.png" width="300"/>
-  <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/konum_izni_1.png" width="300"/>
-  <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/ana_sayfa_1.png" width="300"/>
-  <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/ana_sayfa_2.png" width="300"/>
-  <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/animasyon_1.png" width="300"/>
-  <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/ayarlar_giris.png" width="300"/>
-  <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/ayarlar_sayfa_1.png" width="300"/>
-  <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/evlat_ekle.png" width="300"/>
-  <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/yeni_gorev_ekle.png" width="300"/>
-  <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/ayarlar_sayfa_2.png" width="300"/>
-  <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/ayarlar_sayfa_3.png" width="300"/>
-  <img src="https://github.com/Ahmetyilmazz/Gorevlerim/blob/6d3d17b7ca4417bc51584a8ce5f7fe9678a02899/ekran_resimleri/gorevler_takvimi.png" width="300"/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+ 
 </div>
